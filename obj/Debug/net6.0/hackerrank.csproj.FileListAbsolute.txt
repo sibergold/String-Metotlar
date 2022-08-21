@@ -1,0 +1,15 @@
+C:\Users\OSMAN\hackerrank\bin\Debug\net6.0\hackerrank.exe
+C:\Users\OSMAN\hackerrank\bin\Debug\net6.0\hackerrank.deps.json
+C:\Users\OSMAN\hackerrank\bin\Debug\net6.0\hackerrank.runtimeconfig.json
+C:\Users\OSMAN\hackerrank\bin\Debug\net6.0\hackerrank.dll
+C:\Users\OSMAN\hackerrank\bin\Debug\net6.0\hackerrank.pdb
+C:\Users\OSMAN\hackerrank\obj\Debug\net6.0\hackerrank.csproj.AssemblyReference.cache
+C:\Users\OSMAN\hackerrank\obj\Debug\net6.0\hackerrank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSMAN\hackerrank\obj\Debug\net6.0\hackerrank.AssemblyInfoInputs.cache
+C:\Users\OSMAN\hackerrank\obj\Debug\net6.0\hackerrank.AssemblyInfo.cs
+C:\Users\OSMAN\hackerrank\obj\Debug\net6.0\hackerrank.csproj.CoreCompileInputs.cache
+C:\Users\OSMAN\hackerrank\obj\Debug\net6.0\hackerrank.dll
+C:\Users\OSMAN\hackerrank\obj\Debug\net6.0\refint\hackerrank.dll
+C:\Users\OSMAN\hackerrank\obj\Debug\net6.0\hackerrank.pdb
+C:\Users\OSMAN\hackerrank\obj\Debug\net6.0\hackerrank.genruntimeconfig.cache
+C:\Users\OSMAN\hackerrank\obj\Debug\net6.0\ref\hackerrank.dll
